@@ -144,6 +144,21 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+#header .lang-switch-button {
+  margin-left: 25px;
+  color: rgba(255, 255, 255, 0.7);
+  transition: 0.3s;
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  padding: 0 4px;
+  text-transform: uppercase;
+}
+
+#header .lang-switch-button:hover{
+  color: #fff;
+}
+
 .nav-menu .drop-down ul {
   display: block;
   position: absolute;
