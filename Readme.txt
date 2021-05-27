@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+---- Side-project ----
+時間：2020/09 - 2021/01（合華科技駐點資料分析師）
+地點：衛福部照護司
+描述：幫長官架的寺廟網站雛形
